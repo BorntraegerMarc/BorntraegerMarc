@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**BorntraegerMarc/BorntraegerMarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My github stats](https://github-readme-stats.vercel.app/api?username=BorntraegerMarc&show_icons=true)
 
-Here are some ideas to get you started:
+<hr>
+<p align="center">
+  <i>Let's connect</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <a href="https://twitter.com/BorntraegerMarc" alt="Twitter"><img width="34" src="https://github.com/BorntraegerMarc/BorntraegerMarc/blob/master/Twitter_Social_Icon_Circle_Color.svg"></a>
+    <a href="https://www.linkedin.com/in/marc-borntraeger/" alt="Linkedin"><img width="38" src="https://github.com/BorntraegerMarc/BorntraegerMarc/blob/master/Linkedin.png"></a>
+  </p>
+
+</p>

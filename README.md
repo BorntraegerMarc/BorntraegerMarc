@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=BorntraegerMarc&show_icons=true)
-
 <hr>
 <p align="center">
   <i>Let's connect</i>
